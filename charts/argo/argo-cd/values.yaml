@@ -40,7 +40,7 @@ controller:
   args:
     statusProcessors: "20"
     operationProcessors: "10"
-    appResyncPeriod: "180"
+    appResyncPeriod: "30"
     selfHealTimeout: "5"
 
   ## Argo controller log format: text|json
